@@ -17,7 +17,7 @@
 <!-- <p align="center"><a href="https://joel-irineu.github.io">Acesse a aplicação<a></p> -->
 
 <p align="center">
-  <img alt="FrontEnd" src="./img/captura.jpg" width="90%">
+  <img alt="FrontEnd" src="https://raw.githubusercontent.com/Joel-Irineu/login-instagram/master/img/captura.JPG" width="90%">
 </p>
 
 ## :rocket: Tecnologias
